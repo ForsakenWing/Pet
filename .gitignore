@@ -1,6 +1,6 @@
 .idea
 __pycache__/
 .DS_Store
-Users_data
+users
 config.py
 logs.txt
